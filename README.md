@@ -1,3 +1,11 @@
+# Run benchmark specific commands
+```
+conceptgraph-init 
+cd ~/concept-graphs/conceptgraph
+```
+Then follow [this](https://github.com/concept-graphs/concept-graphs#extract-2d-detection-segmentation-and-per-resgion-features)
+
+
 # ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning
 
 [**Project Page**](https://concept-graphs.github.io/) |
